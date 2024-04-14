@@ -21,6 +21,7 @@ public class Main {
             choice = scanner.nextInt();
             switch (choice) {
                 case 1:
+                    // 123
                     System.out.println("Введите тип книги( 1 - Роман, 2 - Детектив, 3 - Фэнтези): ");
                     int bookType = scanner.nextInt();
                     scanner.nextLine();
